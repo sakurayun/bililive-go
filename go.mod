@@ -19,7 +19,7 @@ require (
 	github.com/stretchr/testify v1.6.1
 	github.com/tidwall/gjson v1.6.0
 	github.com/tidwall/pretty v1.0.1 // indirect
-	golang.org/x/sys v0.0.0-20200513112337-417ce2331b5c // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/sourcemap.v1 v1.0.5 // indirect
 	gopkg.in/yaml.v2 v2.3.0
 )
